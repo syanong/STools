@@ -26,9 +26,9 @@
 			</properties>
 		</profile>
 		<profile>
-			<id>alpha</id>
+			<id>rc</id>
 			<properties>
-				<package.environment>alpha</package.environment>
+				<package.environment>rc</package.environment>
 			</properties>
 		</profile>
 		<profile>
